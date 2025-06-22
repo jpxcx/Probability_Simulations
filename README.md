@@ -2,19 +2,19 @@
 
 This repository contains a collection of Python simulations that explore classic problems in probability theory and stochastic processes. These interactive notebooks are designed to build intuition through experimentation and visualization.
 
-# Contents
+## Included Simulations
 
-# (Some of the) Probability Simulations
+### Probability Simulations
 - **Law of Large Numbers** — Demonstrates convergence of sample averages
 - **Gambler’s Ruin** — Models a gambler’s chance of going broke vs. winning
 - **Birthday Paradox** — Simulates the surprising probability of shared birthdays
 
-# Stochastic Processes
+### Stochastic Processes
 - **Markov Chains** — Simulates state transitions with a custom transition matrix
-- **Random Walks** — Explores 1D and 2D walk paths and return probabilities
+- **Random Walks** — Explores 1D, 2D, and 3D walk paths and return probabilities
 - *(more coming soon)*
 
-# Purpose
+## Purpose
 
 These simulations are great for:
 - Students learning probability & stochastic processes
