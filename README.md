@@ -1,5 +1,4 @@
 # Probability Simulations & Stochastic Processes
-
 This repository contains a collection of Python simulations that explore classic problems in probability theory and stochastic processes. These interactive notebooks are designed to build intuition through experimentation and visualization.
 
 ## Included Simulations
